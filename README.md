@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LordBrainless
 - 👀 I’m interested in gaming & coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I know some basics in Java & Python
 - 📫 How to reach me: Discord (sirbrainlessguy#1623)
 
 <!---
